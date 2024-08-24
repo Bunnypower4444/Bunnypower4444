@@ -28,6 +28,6 @@ hi there! I'm Bunnypower4444 (or just Bunnypower)🐰🐇🐱🐈
 * I have ideas for a platformer game but I haven't started yet
 
 
-  /\__/\
+  /\\__/\\
  ( ^ - ^)
   />🥕<\
