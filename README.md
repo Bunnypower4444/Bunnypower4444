@@ -18,7 +18,7 @@ hi there! I'm Bunnypower4444 (or just Bunnypower)🐰🐇🐱🐈
     * [Chess](https://editor.p5js.org/Bunnypower/sketches/eUCqK3vtv): Chess, made along with my friend [Cole](https://github.com/cole-bechtel/) (NOTE: The computer does not work, it **will** crash the game!)
     * The rest are mainly test projects (and things for Coding Club), but feel free to check them out as well!
     * I also have a Chinese Chess/Xiangqi game that I made using p5.js (but not using their website) but I keep forgetting to upload it
-* [Circuit Simulation](https://bunnypower4444.github.io/projects/circuit-simulation/index.html): A digital logic simulation inspired by Sebastian Lague (might not work)
+* [Circuit Simulation](https://bunnypower4444.github.io/projects/circuit-simulator/index.html): A digital logic simulation inspired by Sebastian Lague (might not work, unfinished)
 * My ["website"](https://bunnypower4444.github.io/index.html) (if you can even call it one) which has a few of my things (honestly i forgot it existed)
 
 ### What I'm working on
