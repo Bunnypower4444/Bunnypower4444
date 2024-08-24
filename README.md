@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Bunnypower4444
-- 👀 I’m interested in coding and music
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hi there! I'm Bunnypower4444 (or just Bunnypower)🐰🐇🐱🐈
 
-<!---
-Bunnypower4444/Bunnypower4444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* I am a 9th grader from (upstate) New York
+* Bunnies and cats are cool
+* I love playing music–I play the flute, piano, and I am in the Front Ensemble/pit for marching band
+* I like to code in my free time
+* My favorite language is C#, but I also use JavaScript, Java (sometimes), Python (for quick terminal programs), a̶n̶d̶ L̶u̶a̶ (̶f̶o̶r̶ R̶o̶b̶l̶o̶x̶)̶
+
+### Some of my projects
+* A [Celeste 64 Mod](https://github.com/Bunnypower4444/Celeste64Mod/) with a bunch of my random ideas and levels
+* [Celeste 64 Pacer Test](https://github.com/Bunnypower4444/Celeste64Mod/tree/pacer-test): Celeste 64 mod that adds the FitnessGram™️ Pacer Test
+* [CelesteTAS64](https://github.com/Bunnypower4444/CelesteTAS64): A TAS tool for Celeste 64 (I know there already is one that is much better but whatever)
+* My [p5.js projects](https://editor.p5js.org/Bunnypower/sketches/)–Here are some of my best projects, in chronological order:
+    * [Carrot Clicker](https://editor.p5js.org/Bunnypower/sketches/PjkfQcgxi)
+    * [Pokémon](https://editor.p5js.org/Bunnypower/sketches/sSI3RdZwc)
+    * [Piano Tiles Game](https://editor.p5js.org/Bunnypower/sketches/XWPITbYsW): Piano Tiles but with an actual piano
+    * [p5.js Sketch Editor](https://editor.p5js.org/Bunnypower/sketches/dYCh0X9bd): A program that lets you design p5.js sketches
+    * [Chess](https://editor.p5js.org/Bunnypower/sketches/eUCqK3vtv): Chess, made along with my friend [Cole](https://github.com/cole-bechtel/) (NOTE: The computer does not work, it **will** crash the webpage!)
+    * The rest are mainly test projects (and things for Coding Club), but feel free to check them out as well!
+    * I also have a Chinese Chess/Xiangqi game that I made using p5.js (but not using their website) but I keep forgetting to upload it
+* My ["website"](https://bunnypower4444.github.io/index.html) (if you can even call it one) which has a few of my things (honestly i forgot it existed)
+
+### What I'm working on
+* Modding Celeste 64 and improving the TAS tool
+* A 3D matrix transformation visualizer
+* add more later i have to eat dinner
