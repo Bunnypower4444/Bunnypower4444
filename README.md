@@ -1,14 +1,19 @@
-hi there! I'm Bunnypower4444 (or just Bunnypower)🐰🐇🐱🐈
-
+hi there! I'm Bunnypower🐰🐇🐱🐈
+<br>
+<br>
+oh my god why did a write a whole freaking essay
+<br>
+<br>
 * I am a 9th grader from (upstate) New York
 * Bunnies and cats are cool
 * I love playing music–I play the flute and piano, and I am in the Front Ensemble/pit for marching band
 * I like to code games
 * My favorite language is C#, but I also use JavaScript, Java (sometimes), Python (for quick terminal programs)~~, and Lua (for Roblox)~~
+* USACO Bronze
 
 ### Some of my projects
 * A [Celeste 64 Mod](https://github.com/Bunnypower4444/Celeste64Mod/) with a bunch of my random ideas and levels
-* [Celeste 64 Pacer Test](https://github.com/Bunnypower4444/Celeste64Mod/tree/pacer-test): Celeste 64 mod that adds the FitnessGram™️ Pacer Test
+* [Celeste 64 Pacer Test](https://github.com/Bunnypower4444/Celeste64Mod/tree/pacer-test): Celeste 64 mod that adds the FitnessGram™ Pacer Test
 * [CelesteTAS64](https://github.com/Bunnypower4444/CelesteTAS64): A TAS tool for Celeste 64 (I know there already is one that is much better but whatever)
 * My [p5.js projects](https://editor.p5js.org/Bunnypower/sketches/)–Here are some of my best projects, in chronological order:
     * [Carrot Clicker](https://editor.p5js.org/Bunnypower/sketches/PjkfQcgxi)
