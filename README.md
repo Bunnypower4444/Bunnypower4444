@@ -12,10 +12,11 @@ oh my god why did a write a whole freaking essay
 * USACO Bronze
 
 ### Some of my projects
+* [Synthsizer!](https://github.com/Bunnypower4444/Celeste64Mod/) (not finished though, but the main thing i'm doing right now)
 * A [Celeste 64 Mod](https://github.com/Bunnypower4444/Celeste64Mod/) with a bunch of my random ideas and levels
 * [Celeste 64 Pacer Test](https://github.com/Bunnypower4444/Celeste64Mod/tree/pacer-test): Celeste 64 mod that adds the FitnessGram™ Pacer Test
 * [CelesteTAS64](https://github.com/Bunnypower4444/CelesteTAS64): A TAS tool for Celeste 64 (I know there already is one that is much better but whatever)
-* My [p5.js projects](https://editor.p5js.org/Bunnypower/sketches/)–Here are some of my best projects, in chronological order:
+* My [p5.js projects](https://editor.p5js.org/Bunnypower/sketches/)–Here are some of my best projects, in chronological order (don't expect quality from these, they're pretty old lol):
     * [Carrot Clicker](https://editor.p5js.org/Bunnypower/sketches/PjkfQcgxi)
     * [Pokémon](https://editor.p5js.org/Bunnypower/sketches/sSI3RdZwc)
     * [Piano Tiles Game](https://editor.p5js.org/Bunnypower/sketches/XWPITbYsW): Piano Tiles but with an actual piano
@@ -36,3 +37,5 @@ oh my god why did a write a whole freaking essay
 &nbsp;&nbsp;/\\__/\\<br>
  ( ^ - ^)<br>
   />🥕<\\
+
+ben plss follow me back ^-^
