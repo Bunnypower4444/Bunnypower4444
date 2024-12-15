@@ -9,7 +9,7 @@ oh my god why did a write a whole freaking essay
 * I love playing music–I play the flute and piano, and I am in the Front Ensemble/pit for marching band
 * I like to code games
 * My favorite language is C#, but I also use JavaScript, Java (sometimes), Python (for quick terminal programs)~~, and Lua (for Roblox)~~
-* USACO Bronze
+* USACO Silver
 
 ### Some of my projects
 * [Synthsizer!](https://github.com/Bunnypower4444/Celeste64Mod/) (not finished though, but the main thing i'm doing right now)
