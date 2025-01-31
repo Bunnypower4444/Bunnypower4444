@@ -4,7 +4,7 @@ hi there! I'm Bunnypower🐰🐇🐱🐈
 oh my god why did a write a whole freaking essay
 <br>
 <br>
-* I am a 9th grader from (upstate) New York
+* I'm a 9th grader in the Bay Area
 * Bunnies and cats are cool
 * I love playing music–I play the flute and piano, and I am in the Front Ensemble/pit for marching band
 * I like to code games
